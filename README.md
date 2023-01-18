@@ -68,7 +68,7 @@ Kelas : TI.22.A1
 
 4. Selanjutnya ketik *Python* untuk melihat versi python yang telah terinstall.
 
-![5](https://user-images.githubusercontent.com/115867244/212943930-360530ab-536d-4412-a48e-f6d55f4b7f79.png)
+[5](https://user-images.githubusercontent.com/115804283/213189305-aebcb098-f9ee-4701-984f-bac4a6cb9d43.png)
 
 
 #### Request
