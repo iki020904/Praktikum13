@@ -53,7 +53,7 @@ Kelas : TI.22.A1
 #### Python 
 1. Kunjungi tautan berikut untuk proses instalasinya : https://www.python.org/
 
-![2](https://user-images.githubusercontent.com/115867244/212943005-a0eb4987-4b96-40f5-95be-7897082a2f12.png)
+![2](https://user-images.githubusercontent.com/115804283/213188386-657c7f4c-54d0-46b3-bb10-fd948adf723f.png)
 
 
 2. Kemudian Install Python 3.11.1
