@@ -68,7 +68,7 @@ Kelas : TI.22.A1
 
 4. Selanjutnya ketik *Python* untuk melihat versi python yang telah terinstall.
 
-[5](https://user-images.githubusercontent.com/115804283/213189305-aebcb098-f9ee-4701-984f-bac4a6cb9d43.png)
+![5](https://user-images.githubusercontent.com/115804283/213189305-aebcb098-f9ee-4701-984f-bac4a6cb9d43.png)
 
 
 #### Request
@@ -82,7 +82,7 @@ Kelas : TI.22.A1
 - BeautifulSoup merupakan library yang digunakan untuk proses web scraping halaman HTML dan XML.
 - Untuk menginstallnya menggunakan perintah pip, seperti pada gambar di bawah ini :
 
-![7](https://user-images.githubusercontent.com/115867244/212944810-d6112c70-2f13-42f0-91ec-2cfead6898a2.png)
+![7](https://user-images.githubusercontent.com/115804283/213189821-5c36a299-fcab-47e7-961f-fac886eac155.png)
 
 
 #### Pandas
